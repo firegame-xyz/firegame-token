@@ -2,31 +2,5 @@
   "name": "Fire Game Voucher",
   "symbol": "FGV",
   "description": "Fire Game Voucher",
-  "image": "https://raw.githubusercontent.com/firegame-xyz/firegame-token/main/fgv-asset/assets/image.png",
-  "attributes": [
-    {
-      "trait_type": "Total Supply",
-      "value": "100000000000"
-    },
-    {
-      "trait_type": "Website",
-      "value": "https://firegame.xyz"
-    },
-    {
-      "trait_type": "Telegram",
-      "value": "https://t.me/firegamegroup"
-    },
-    {
-      "trait_type": "Twitter",
-      "value": "https://twitter.com/firegame"
-    },
-    {
-      "trait_type": "Discord",
-      "value": "https://discord.gg/firegame"
-    },
-    {
-      "trait_type": "Tag",
-      "value": "meme"
-    }
-  ]
+  "image": "https://raw.githubusercontent.com/ErenVance/solana-token/main/fgv-asset/assets/image.png"
 }
