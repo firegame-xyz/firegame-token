@@ -2,31 +2,5 @@
   "name": "Fire Game Coin",
   "symbol": "FGC",
   "description": "Fire Game Coin",
-  "image": "https://raw.githubusercontent.com/firegame-xyz/firegame-token/main/fgc-asset/assets/image.png",
-  "attributes": [
-    {
-      "trait_type": "Total Supply",
-      "value": "10000000000000000"
-    },
-    {
-      "trait_type": "Website",
-      "value": "https://firegame.xyz"
-    },
-    {
-      "trait_type": "Telegram",
-      "value": "https://t.me/firegamegroup"
-    },
-    {
-      "trait_type": "Twitter",
-      "value": "https://twitter.com/firegame"
-    },
-    {
-      "trait_type": "Discord",
-      "value": "https://discord.gg/firegame"
-    },
-    {
-      "trait_type": "Tag",
-      "value": "meme"
-    }
-  ]
+  "image": "https://raw.githubusercontent.com/ErenVance/solana-token/main/fgc-asset/assets/image.png"
 }
