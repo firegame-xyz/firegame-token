@@ -2,5 +2,7 @@
   "name": "Fire Game Voucher",
   "symbol": "FGV",
   "description": "Fire Game Voucher",
-  "image": "https://raw.githubusercontent.com/firegame-xyz/firegame-token/main/fgv-asset/assets/image.png"
+  "image": "https://raw.githubusercontent.com/firegame-xyz/firegame-token/main/fgv-asset/assets/image.png",
+  "external_url": "https://www.firegame.xyz",
+  "sellerFeeBasisPoints": 0
 }
