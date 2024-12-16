@@ -2,7 +2,5 @@
   "name": "Fire Game Coin",
   "symbol": "FGC",
   "description": "Fire Game Coin",
-  "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1734313589396-ebf6343ff42a3eb7d462d5b2ed391f1c.png",
-  "external_url": "https://www.firegame.xyz",
-  "sellerFeeBasisPoints": 0
+  "image": "https://raw.githubusercontent.com/firegame-xyz/firegame-token/main/fgc-asset/assets/image.png"
 }
